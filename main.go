@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/fifthsegment/DslReports-CLI"
+	"github.com/BrendanMcCallum/DslReports-CLI"
 	"os"
 	"fmt"
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 	"strconv"
 	"time"
 )
